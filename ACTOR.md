@@ -120,7 +120,7 @@ Start here: [https://serp.ly/kajabi-video-downloader](https://serp.ly/kajabi-vid
 ## Installation Instructions
 
 1. Open the latest release page:
-   [https://github.com/serpapps/kajabi-video-downloader/releases/latest](https://github.com/serpapps/kajabi-video-downloader/releases/latest)
+   [https://github.com/serpdownloaders/kajabi-video-downloader/releases/latest](https://github.com/serpapps/kajabi-video-downloader/releases/latest)
 2. Download the extension build for your browser.
 3. Install the extension.
 4. Open a Kajabi lesson page.
