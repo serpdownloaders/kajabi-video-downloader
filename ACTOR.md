@@ -1,4 +1,4 @@
-# Kajabi Downloader (Browser Extension)
+# Kajabi Downloader
 
 > Download supported Kajabi lesson videos and embedded course videos as MP4 files for offline study.
 
