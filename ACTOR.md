@@ -13,6 +13,11 @@ Kajabi Downloader is a browser extension built for students, creators, and teams
 - Choose from the quality levels exposed by the source
 - Keep local copies for offline study, review, or creator archives
 - Use a browser workflow instead of juggling multiple site-specific tools
+
+## Get it Here
+
+Get it here: https://serp.ly/kajabi-video-downloader
+
 ## Table of Contents
 
 - [Why Kajabi Downloader](#why-kajabi-downloader)
